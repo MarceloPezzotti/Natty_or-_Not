@@ -1,6 +1,6 @@
 # A Promessa de Vida Eterna em 2045
 ## Descrição:
-**A vida eterna e seus dilemas: O texto faz uma breve reflexão sobre todas as possíveis mudanças que essa nova realidade pode trazer para o que chamamos de sociedade nos dias de hoje, tanto na questão positiva quanto nas possíveis dificuldades e o peso que isso pode gerar no futuro.**
+**A vida eterna e seus dilemas. O texto faz uma breve reflexão sobre todas as possíveis mudanças que essa nova realidade pode trazer para o que chamamos de sociedade nos dias de hoje, tanto na questão positiva quanto nas possíveis dificuldades e o peso que isso pode gerar no futuro.**
 
 ## Tecnologias Utilizadas
 **O texto foi editado através da tecnologia de IA generativa: ChatGPT. A imagem foi gerada através da tecnologia de IA generativa: Leonardo.AI.**
